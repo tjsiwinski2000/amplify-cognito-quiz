@@ -1,9 +1,9 @@
 
 const quizData = [
     {
-      question: "Which company developed the first commercial antivirus software?",
-      options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
-      answer: "McAfee"
+      question: "What was Peter's nickname?",
+      options: ["Monkey", "Rock", "Joey", "Kaspersky"],
+      answer: "Rock"
     },
     {
       question: "Which animal is featured in the official PHP logo?",
